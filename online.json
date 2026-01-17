@@ -1,0 +1,16 @@
+{
+    "crmp_new": {
+        "1": {
+            "players": 0,
+            "maxPlayers": 0
+        }, 
+        "11": {
+            "players": 0,
+            "maxPlayers": 0
+        },
+        "L": {
+            "players": 0,
+            "maxPlayers": 0
+        }
+    }
+}

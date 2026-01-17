@@ -1,0 +1,38 @@
+{
+    "0.0.0": {
+        "cdn": "https://dl.hasslecdn.com/game/1.8.3.4",
+        "released": true,
+        "StandaloneWindows": {
+            "version": "1.7.0",
+            "resourcesVersion": 253
+        },
+        "Android": {
+            "version": "1.8.2",
+            "resourcesVersion": 271
+        },
+        "iOS": {
+            "version": "1.8.2",
+            "resourcesVersion": 271
+        },
+        "servers": {
+            "1": {
+                "name": "TEST1",
+                "ip": "192.168.31.74",
+                "port": 9999,
+                "network_type": 0
+            },
+            "11": {
+                "name": "11",
+                "ip": "80.66.71.80",
+                "port": 10001,
+                "network_type": 1
+            },
+            "L": {
+                "name": "TEST2",
+                "ip": "192.168.31.74",
+                "port": 9999,
+                "network_type": 0
+            }
+        }
+    }
+}
