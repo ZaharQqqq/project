@@ -15,7 +15,7 @@
             "resourcesVersion": 271
         },
         "servers": {
-            "1": {
+            "6": {
                 "name": "6",
                 "ip": "washable-inspection.gl.at.ply.gg",
                 "port": 3416,
@@ -37,4 +37,5 @@
     }
 
 }
+
 
