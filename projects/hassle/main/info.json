@@ -17,8 +17,8 @@
         "servers": {
             "6": {
                 "name": "6",
-                "ip": "washable-inspection.gl.at.ply.gg",
-                "port": 3416,
+                "ip": "195.18.27.241",
+                "port": 2319,
                 "network_type": 0
             },
             "11": {
@@ -37,5 +37,6 @@
     }
 
 }
+
 
 
